@@ -1,0 +1,5 @@
+# REQUIREMENTS FOR THE PROJECT :-
+streamlit
+pandas
+matplotlib
+seaborn
